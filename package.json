@@ -1,6 +1,6 @@
 {
   "name": "leapShell",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A node module that runs a shell command when at least one hand is detected by the Leap Motion sensor.",
   "main": "index.js",
   "scripts": {
