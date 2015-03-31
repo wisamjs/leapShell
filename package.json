@@ -1,0 +1,16 @@
+{
+  "name": "leapShell",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "colors": "^1.0.3",
+    "gulp": "^3.8.11",
+    "leapjs": "^0.6.4"
+  }
+}
