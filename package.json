@@ -12,7 +12,7 @@
     "type" : "git",
     "url" : "https://github.com/wzaghal/leapShell.git"
   },
-  "devDependencies":{
+  "dependencies":{
     "colors": "^1.0.3",
     "leapjs": "^0.6.4"
   },
