@@ -1,14 +1,18 @@
 {
   "name": "leapShell",
   "version": "0.0.0",
-  "description": "",
+  "description": "A node module that runs a shell command when at least one hand is detected by the Leap Motion sensor.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Wisam Zaghal",
   "license": "ISC",
-  "devDependencies": {
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/wzaghal/leapShell.git"
+  }
+  "devDependencies":{
     "colors": "^1.0.3",
     "gulp": "^3.8.11",
     "leapjs": "^0.6.4"
