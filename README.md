@@ -5,7 +5,7 @@ A node module that runs a shell command when at least one hand is detected by th
 ### Basic Usage
   ```javascript
 
-  var leapShell = require('../detect');
+  var leapShell = require('leapShell');
   //run unit tests
   leapShell.detect('gulp test');
 
